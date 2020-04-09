@@ -1,4 +1,9 @@
 # covid19ICTZambia
+
+- The covid19app - is a flutter mobile app that accesses the covid19app_backend API. Th e
+- The covid19app_backend - the springboot API and Web App accessible via usrname/password user/password
+
+
 Covid19 ICT Zambia community response
 
 ZAMBIA TECHNICAL RESPONSE TO COVID-19: Data Presentation Workstream
